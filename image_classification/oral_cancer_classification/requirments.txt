@@ -1,0 +1,13 @@
+tensorflow>=2.8.0
+
+keras>=2.8.0
+
+numpy
+
+pandas
+
+matplotlib
+
+scikit-learn
+
+opencv-python
