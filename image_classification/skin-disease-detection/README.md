@@ -4,7 +4,7 @@ Welcome to the **Skin Disease Detection** project!
 This repository contains a complete deep learning pipeline to classify various skin diseases using a **fine-tuned MobileNetV2** model.  
 The model is trained carefully in **three progressive phases** to achieve strong performance and generalization! 🚀
 
-### Kaggle Notebook Link: https://www.kaggle.com/code/jeet047/skin-disease-detection-using-mobilenetv2
+### **Kaggle Notebook 🗒️ Link**: https://www.kaggle.com/code/jeet047/skin-disease-detection-using-mobilenetv2
 
 ## 🧠 Model Workflow
 
