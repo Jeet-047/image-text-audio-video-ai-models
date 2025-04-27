@@ -4,6 +4,8 @@ Welcome to the **Oral Cancer Classification** project!
 This repository contains a deep learning pipeline that classifies oral tissue images into **cancerous** and **normal** categories using a **fine-tuned VGG16** model.  
 Achieved a solid **85% accuracy** on the validation set! 🚀
 
+### **Kaggle Notebook 🗒️ Link**: https://www.kaggle.com/code/jeet047/oral-cancer-classification-using-fine-tuned-vgg16
+
 ## 🧠 Model Architecture
 
 - Base model: **VGG16** 🏆
