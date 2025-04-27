@@ -6,7 +6,7 @@ Achieved a solid **85% accuracy** on the validation set! 🚀
 
 ## 🧠 Model Architecture
 
-- Base model: **VGG16** pretrained on **ImageNet** 🏆
+- Base model: **VGG16** 🏆
 - Fine-tuning:
   - Initial convolutional layers **frozen** to retain general features.
   - Deeper layers **unfrozen and retrained** on oral cancer data.
