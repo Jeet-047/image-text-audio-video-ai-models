@@ -13,3 +13,6 @@ Achieved an impressive **99% accuracy** after training for 50 epochs! 🚀
 
 ## Results
 **Accuracy and Learning Rate Graph over epochs**  ![accuracy graph](./sample-results/accuracy-lr-over-epochs.png)
+
+
+**Confusion Matrix**![confusion matrix](./sample-results/confusion-matrix.png)
