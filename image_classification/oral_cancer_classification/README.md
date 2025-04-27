@@ -17,6 +17,6 @@ Achieved a solid **85% accuracy** on the validation set! 🚀
 - ✅ **Accuracy**: ~85%
 - ✅ **Loss minimization** through fine-tuning
 - ✅ **Better generalization** to unseen images
+- 
 
-## Accuracy & Loss graph over epochs
-[./sample_results/accuracy-loss-over-epochs.png]
+**Accuracy & Loss graph 📈 over epochs** ![View Graphs](./sample_results/accuracy-loss-over-epochs.png)
