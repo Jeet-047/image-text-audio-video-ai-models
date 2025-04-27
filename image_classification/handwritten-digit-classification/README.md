@@ -4,7 +4,7 @@ Welcome to the **Handwritten Digit Classification** project!
 In this repository, we build a **custom Convolutional Neural Network (CNN)** to classify handwritten digits (0–9) with high precision.  
 Achieved an impressive **99% accuracy** after training for 50 epochs! 🚀
 
-Kaggle Notebook Link: https://www.kaggle.com/code/jeet047/handwritten-digit-classification
+### **Kaggle Notebook 🗒️ Link**: https://www.kaggle.com/code/jeet047/handwritten-digit-classification
 
 ## 🧠 Model Details
 
